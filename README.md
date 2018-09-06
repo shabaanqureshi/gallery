@@ -1,6 +1,4 @@
-# personal-projects
-
-## Project: *Gallery*
+# Art Gallery
 
 This is a web application that uses Node.js, Express framework and MongoDB to display list of paintings. The user can click Read More to find more details on each painting. This is a work in progress and more functionalities will be added.
 
